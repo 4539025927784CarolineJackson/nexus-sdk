@@ -180,3 +180,5 @@ Since `nexus` has a direct dependency on `nexus-sdk` crates, we should follow th
   - Deploy immediately to all environments connected to the version (`devnet`, `testnet`, and/or `mainnet`).
 
 [conventional-commits]: https://www.conventionalcommits.org/
+
+<!-- Auto-update: 2025-10-19T08:58:10.576978 -->
